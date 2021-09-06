@@ -50,5 +50,7 @@ below is the results of the data frame.
 ![](https://github.com/c3crocks/School_District_Analysis/blob/main/Resources/sumlast.PNG)
 ## Summary
 
-
-
+Consindering the assumption that there was academic dishonesty amongst the 9th graders, we replaced their scores and analyzed the data once again and compared it with the previous data.
+The overall analysis didn't show any potential difference to the overall grading while didn't affect the school ranking in terms of performance compared to other school in the district. 
+However such analysis would still stand important in other cases where it might affect other schools who perform honestly.
+In our analysis the only the Math and Reading scores were affected whereas others maintained position. 
