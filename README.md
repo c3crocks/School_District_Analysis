@@ -41,13 +41,13 @@ below is the results of the data frame.
 	- The 9th grade grades were affected which didn't any corelation to the school size
 	- The school size remained untouched and didn't make any noticeable difference from before 9th grade scores 
 
-![](https://github.com/c3crocks/School_District_Analysis/blob/main/Resources/sumsize.png)
+![](https://github.com/c3crocks/School_District_Analysis/blob/main/Resources/sumsize.PNG)
 
 - Scores by school type
 	- The 9th grade grades were affected which didn't any corelation to the school type
 	- The school size remained untouched and didn't make any noticeable difference from before 9th grade scores 
 
-![](https://github.com/c3crocks/School_District_Analysis/blob/main/Resources/sumlast.png)
+![](https://github.com/c3crocks/School_District_Analysis/blob/main/Resources/sumlast.PNG)
 ## Summary
 
 
